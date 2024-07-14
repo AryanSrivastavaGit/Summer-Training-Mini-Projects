@@ -10,3 +10,6 @@
 
 4. Project_BusReservation_in_C++ is my fourth C++ project during training, it contains the code of how a Bus Reservation works for a user, the user is allowed to book seats 
    and cancel them by entering their seat number and name, if available.
+
+5. Project_Quiz_in_C++ is my fifth C++ project during training, it contains the code of how a daily quiz works, The user has to enter his details and type yes to start the 
+   quiz, the user is given 10 questions, answers Score is added based on 10 for each correct answer and 0 for wrong answer.
