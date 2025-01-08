@@ -1,4 +1,4 @@
-# Summer-training-mini-projects description
+# Description:
 
 1. Project_TicTacToe_in_C++ is my first C++ project during training, it contains the code to play 2 player TicTacToe game.
 
